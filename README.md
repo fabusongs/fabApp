@@ -1,4 +1,4 @@
-# diamond
+# fabApp
 
 A simple Ionic tab-based app demo:
 - Geolocation via Cordova and Google Maps
