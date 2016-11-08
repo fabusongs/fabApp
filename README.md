@@ -25,6 +25,7 @@ $ ionic build android
 $ ionic build ios
 
 $ ionic emulate android
+
 $ ionic emulate ios
 
 Connect your device(s)
