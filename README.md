@@ -4,7 +4,7 @@ A simple **Ionic 1** - Tab-based app demo:
 - Geolocation via Cordova and Google Maps
 - A promise-based ($http) refreshable list
 
-Clone repo & Install:
+**Clone repo & Install:**
 
 $ git clone https://github.com/mfabus/fabApp.git
 
@@ -28,7 +28,8 @@ $ ionic emulate android
 
 $ ionic emulate ios
 
-Connect your device(s)
+
+**Connect your device(s)**
 
 $ ionic run android
 
