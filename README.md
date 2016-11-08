@@ -1,6 +1,6 @@
 ## fabApp
 
-A simple Ionic tab-based app demo:
+A simple Ionic 1 tab-based app demo:
 - Geolocation via Cordova and Google Maps
 - A promise-based ($http) refreshable list
 
