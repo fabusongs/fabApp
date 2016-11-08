@@ -26,7 +26,7 @@ var exampleApp = angular.module('starter', ['ionic', 'starter.controllers', 'sta
 exampleApp.controller('MapController', function($scope, $ionicLoading) {
 
     google.maps.event.addDomListener(window, 'load', function() {
-        var myLatlng = new google.maps.LatLng(41.439225, -87.158068);
+        var myLatlng = new google.maps.LatLng(41.8781, -87.6298);
 
         var mapOptions = {
             center: myLatlng,
