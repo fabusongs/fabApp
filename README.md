@@ -1,4 +1,4 @@
-# fabApp
+## fabApp
 
 A simple Ionic tab-based app demo:
 - Geolocation via Cordova and Google Maps
@@ -9,17 +9,26 @@ Clone repo & Install:
 $ git clone https://github.com/mfabus/fabApp.git
 
 $ npm install
+
 $ ionic platform add android
+
 $ ionic platform add ios
+
 $ ionic resources --icon
+
 $ cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git
 
 $ ionic serve
+
 $ ionic build android
+
 $ ionic build ios
+
 $ ionic emulate android
 $ ionic emulate ios
 
 Connect your device(s)
+
 $ ionic run android
+
 $ ionic run ios
