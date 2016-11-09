@@ -1,12 +1,12 @@
 angular.module('starter.services', [])
 
 .factory('PersonService', function($http){
-	var BASE_URL = "https://api.randomuser.me/?results=5&inc=name,email,";
+	var BASE_URL = "https://randomuser.me/api/";
 	var items = [];
 
 	return {
 		GetFeed: function(){
-			return $http.get(BASE_URL+'?results=5').then(function(response){
+			return $http.get(BASE_URL+'?results=7').then(function(response){
 				items = response.data.results;
 				return items;
 			});
