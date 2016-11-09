@@ -2,7 +2,6 @@
   <ion-content>
     <ion-refresher on-refresh="doRefresh()"></ion-refresher>
     <ion-list>
-      <!--ion-item collection-repeat="item in items"-->
       <ion-item class="item-avatar" collection-repeat="item in items">
         <img ng-src="{{item.picture.thumbnail}} " />
           <h2>{{item.name.first}} {{item.name.last}}</h2>
