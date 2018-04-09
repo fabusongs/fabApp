@@ -10,11 +10,15 @@ $ git clone https://github.com/mfabus/fabApp.git
 
 $ npm install
 
-$ ionic platform add android
+$ ionic cordova platform add android
 
 $ ionic platform add ios
 
-$ ionic resources --icon
+$ ionic cordova resources
+
+$ ionic cordova resources ios
+
+ionic start$ ionic cordova resources android
 
 $ cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git
 
