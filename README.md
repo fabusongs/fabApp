@@ -3,7 +3,7 @@
 A simple **Ionic 1** - Tab-based app demo:
 - Geolocation via Cordova and Google Maps
 - A promise-based ($http) refreshable list
-- Update new Ionic - May 18
+- Update new Ionic - May 22 2018
 
 **Clone repo & Install:**
 
