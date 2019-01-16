@@ -7,7 +7,7 @@ A simple **Ionic 1** - Tab-based app demo:
 
 **Clone repo & Install:**
 
-$ git clone https://github.com/mfabus/fabApp.git
+$ git clone https://github.com/fabusongs/fabApp.git
 
 $ npm install
 
