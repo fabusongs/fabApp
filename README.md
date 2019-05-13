@@ -25,9 +25,9 @@ $ ionic build android
 
 $ ionic build ios
 
-$ ionic emulate android
+$ ionic cordova emulate android
 
-$ ionic emulate ios
+$ ionic cordova emulate ios
 
 
 **Connect your device(s)**
@@ -35,3 +35,8 @@ $ ionic emulate ios
 $ ionic run android
 
 $ ionic run ios
+
+
+/----------More-----------/
+
+** The Gulp 4.0x update is required on gulpfile.js for the app to build and emulate on IOS and Android.
