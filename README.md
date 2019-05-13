@@ -15,11 +15,7 @@ $ ionic cordova platform add android
 
 $ ionic platform add ios
 
-$ ionic cordova resources
-
-$ ionic cordova resources ios
-
-$ ionic cordova resources android
+$ cordova-res-generator -g
 
 $ cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git
 
